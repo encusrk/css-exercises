@@ -1,0 +1,19 @@
+.paragraf {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.paragraf.vacsi {
+    font-size: 24px;
+}
+
+#prvy {
+    color: blue;
+    font-size: 36px;
+}
+
+#druhy {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
